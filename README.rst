@@ -1,5 +1,18 @@
-Programming and CJK fonts
-=========================
+Programming fonts and CJK fonts
+===============================
+
+Clear Sans
+----------
+
+`Clear Sans`_ is a new font from Intel.
+
+Font (inside ``./ClearSans``).
+
+Font License: `Apache License Version 2.0`_.
+
+.. _Clear Sans: https://01.org/clear-sans
+.. _Apache License Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
+
 
 Code 2000
 ---------
