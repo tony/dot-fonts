@@ -65,6 +65,9 @@ Powerline fonts
 
 `Powerline Fonts`_ - `Patched fonts`_ for `Powerline`_.
 
+For Linux, also see:
+https://powerline.readthedocs.org/en/latest/installation/linux.html#font-installation
+
 Fonts (see inside):
 
 - AnonymousPro/
