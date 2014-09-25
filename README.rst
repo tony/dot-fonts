@@ -1,6 +1,13 @@
 Programming fonts and CJK fonts
 ===============================
 
+Awesome Terminal Fonts
+----------------------
+
+`awesome-terminal-fonts`_ is for icons in your term.
+
+.. _awesome-terminal-fonts: https://github.com/gabrielelana/awesome-terminal-fonts 
+
 Clear Sans
 ----------
 
