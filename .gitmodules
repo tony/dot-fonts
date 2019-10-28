@@ -4,3 +4,4 @@
 [submodule "cascadia-code"]
 	path = cascadia-code
 	url = https://github.com/microsoft/cascadia-code
+	ignore = dirty
