@@ -5,3 +5,6 @@
 	path = cascadia-code
 	url = https://github.com/microsoft/cascadia-code
 	ignore = dirty
+[submodule "powerlevel10k-media"]
+	path = powerlevel10k-media
+	url = https://github.com/romkatv/powerlevel10k-media.git
