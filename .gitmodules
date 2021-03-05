@@ -9,3 +9,6 @@
 	path = powerlevel10k-media
 	url = https://github.com/tony/powerlevel10k-media.git
 	branch = with-gitignore
+[submodule "JetBrainsMono"]
+	path = JetBrainsMono
+	url = https://github.com/JetBrains/JetBrainsMono.git
