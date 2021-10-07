@@ -12,7 +12,3 @@
 [submodule "JetBrainsMono"]
 	path = JetBrainsMono
 	url = https://github.com/JetBrains/JetBrainsMono.git
-[submodule "plex"]
-	path = plex
-	url = https://github.com/IBM/plex
-	shallow = true
